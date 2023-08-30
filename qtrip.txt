@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Dynamic Travel Website</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Our Travel Adventures</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="destinations.html">Destinations</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero">
+    <h2>Explore the World with Us</h2>
+    <p>Discover new places, experience different cultures, and create unforgettable memories.</p>
+  </section>
+  <!-- Other content goes here -->
+  <footer>
+    <p>&copy; 2023 Travel Adventures</p>
+  </footer>
+</body>
+</html>
